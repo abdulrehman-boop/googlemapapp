@@ -1,8 +1,8 @@
-Google Maps Routing App 🗺️
+## Google Maps Routing App 🗺️
 
 A Flutter-based Google Maps application with real-time location tracking, route drawing, ETA calculation, and traffic insights. Built using Google Directions API, Places API, and Geolocator, it delivers a smooth navigation and routing experience with a modern UI.
 
-✨ Features
+## Features
 
 📍 Live location tracking with Geolocator
 
@@ -16,7 +16,7 @@ A Flutter-based Google Maps application with real-time location tracking, route 
 
 🚗 Real driving routes with step-by-step updates
 
-🚀 Tech Stack
+## Tech Stack
 
 Frontend: Flutter (Dart)
 
@@ -26,5 +26,6 @@ APIs: Google Directions API, Places API
 
 Location: Geolocator plugin
 
-📱 App Screenshots
-<p align="center"> <img src="assets/screenshots/home.png" alt="Home Map" width="250"/> <img src="assets/screenshots/search.png" alt="Search Place" width="250"/> <img src="assets/screenshots/route.png" alt="Route Navigation" width="250"/> </p>
+ App Screenshots
+
+ I have added app images in folder (appimages)
